@@ -1,1 +1,1 @@
-console.log('Time to get started...');
+console.log('Time to get started...Using TSC --INIT and TSC -W together');
